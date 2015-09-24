@@ -12,6 +12,7 @@ Pod::Spec.new do |s|
   s.summary          = "A marquee view used on iOS."
 
   s.description      = <<-DESC
+                        It is a marquee view used on iOS,which implement by Objective-C.
                        DESC
 
   s.homepage         = "https://github.com/SXM2010/SXMarqueeView"
@@ -29,5 +30,5 @@ Pod::Spec.new do |s|
   # s.osx.exclude_files = 'Classes/ios'
 
   # s.public_header_files = 'Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit','Foundation','CoreGraphics'
+  # s.frameworks = 'UIKit', 'MapKit'
 end
